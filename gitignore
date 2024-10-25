@@ -1,0 +1,9 @@
+# Ignorar arquivos executáveis
+*.exe
+*.out
+
+# Ignorar a pasta .vscode
+.vscode/
+
+# Ignorar o arquivo .gitattributes
+.gitattributes
