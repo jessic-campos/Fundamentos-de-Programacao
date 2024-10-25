@@ -5,4 +5,4 @@ Este repositório contém códigos escritos em C. É importante observar que alg
 
 ## Uso Responsável
 
-Lembre-se de revisar, entender e testar os códigos antes de utilizá-los em ambientes de produção. Este repositório é fornecido como uma fonte de referência e aprendizado, mas não garanto a adequação ou confiabilidade de todos os códigos presentes.
+Este repositório é fornecido como uma fonte de referência e aprendizado, mas não garanto a adequação ou confiabilidade de todos os códigos presentes, lembre-se de testar.
